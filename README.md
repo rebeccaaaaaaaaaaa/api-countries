@@ -11,7 +11,7 @@
  - REST COUNTRIES
 
 
-![Imagem]()
+![Imagem](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/api-countries/main/src/preview.png)
 
 # LINKS
 
